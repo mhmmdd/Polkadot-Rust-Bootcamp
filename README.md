@@ -7,6 +7,7 @@
 4. [Lifetime](#04---lifetime)
 5. [Iterators](#05---iterators)
 6. [Closures](#06---closures)
+7. [Custom Filter](#07---custom-filter)
 
 ## 1. - Ownership example project
 ## 2. - Calculator project to learn enum and match
@@ -14,6 +15,7 @@
 ## 4. - Lifetime
 ## 5. - Iterators
 ## 6. - Closures
+## 7. - Custom Filter 
 
 
 ## Create new project
