@@ -8,6 +8,7 @@
 5. [Iterators](#05---iterators)
 6. [Closures](#06---closures)
 7. [Custom Filter](#07---custom-filter)
+8. [Custom Filter for every type](#08---custom-filter-for-every-type)
 
 ## 1. - Ownership example project
 ## 2. - Calculator project to learn enum and match
@@ -16,6 +17,7 @@
 ## 5. - Iterators
 ## 6. - Closures
 ## 7. - Custom Filter 
+## 8. - Custom Filter for every type
 
 
 ## Create new project
